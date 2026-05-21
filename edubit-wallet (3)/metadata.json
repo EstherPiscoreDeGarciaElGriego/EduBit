@@ -1,0 +1,6 @@
+{
+  "name": "EduBit Wallet",
+  "description": "A virtual wallet for the EduBit token ecosystem, featuring real-time balances, transaction history, and peer-to-peer transfers on a simulated blockchain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
